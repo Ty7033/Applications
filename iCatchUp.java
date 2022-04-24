@@ -5,7 +5,7 @@ import java.util.Scanner;
  * This class runs a menu-driven application that lets the users choose to go into the Maps and Safari Applications
  * and Commands to their respective stacks.
  *
- *  @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ *  @author  Tracy Yip 
  */
 public class iCatchUp
 {
