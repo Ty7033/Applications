@@ -5,7 +5,7 @@ import java.util.Scanner;
  * This is a class that implements the Command interface. It is used to create the FindPlace Command in the
  *  Maps Application.
  *
- *  @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ *  @author  Tracy Yip 
  */
 public class FindPlace implements Command
 {
