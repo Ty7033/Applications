@@ -3,7 +3,7 @@ package com.company;
 /**
  * This is an interface for the Commands in the Maps and Safari Applications.
  *
- *  @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ *  @author  Tracy Yip 
  */
 interface Command
 {
