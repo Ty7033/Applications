@@ -5,7 +5,7 @@ import java.util.*;
  * This class extends the built-in Stack class to create stacks that stores Commands given by users.
  * It has the push, pop, and peek to manipulate the stack.
  *
- *  @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ *  @author  Tracy Yip 
  */
 public class CommandStack extends Stack
 {
