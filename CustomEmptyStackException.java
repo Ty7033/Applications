@@ -4,7 +4,7 @@ import java.util.EmptyStackException;
 /**
  * This exception class is thrown to check if the stack is empty.
  *
- *  @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ *  @author  Tracy Yip 
  */
 public class CustomEmptyStackException extends EmptyStackException
 {
