@@ -5,7 +5,7 @@ import java.util.Scanner;
  * This is an extended class from Application that is responsible for adding and removing valid Safari Commands in
  * the CommandStack.
  *
- *  @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ *  @author  Tracy Yip 
  */
 public class Safari extends Application
 {
