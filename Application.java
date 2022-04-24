@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * This is an abstract class for two applications (Safari and Maps).
  *
- *  @author  Tracy Yip Student ID: 114527635 Recitation: R-03
+ *  @author  Tracy Yip 
  */
 abstract class Application
 {
